@@ -1,0 +1,220 @@
+/*helpfull classes*/
+
+div{
+    border: 1px solid #88ff99;
+    /* padding: 5px 15px; */
+}
+
+.reset{
+    clear: both;
+}
+
+/*header*/
+.main{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+
+}
+
+.header{
+    width: 1200px;
+    height: 75px;
+    background-color: #FFFFFF;
+    display: flex;
+    font-size: 8px;
+}
+
+.log_head{
+    flex: 1;
+    margin-left: 180px;
+}
+
+.menu{
+    flex: 1;
+    margin-top: 40px;
+    text-align: justify; 
+}
+
+.hm{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.phone{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    background-color: #39a539;
+    color: #FFFFFF;
+    font-size: 12px;
+    /* padding: 1% 1%; */
+}
+
+.phone_number{
+    flex: 1;
+    display: flex;
+    text-align: left;
+    align-items: center;
+}
+
+#tel_ico{
+    flex: 1;
+    height: 10px;
+    width: 10px;
+}
+#top_number{
+    flex: 5;
+}
+
+.request{
+    width: 200px;
+    font-size: 16px;
+    padding: 4px;
+    position: relative;
+    background-color: #aaaa33;
+    align-items: flex-end;
+}
+
+/*block one*/
+.block_one{
+    background-image: url(../images/why.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 100px;
+}
+
+.head_block{
+    margin: auto;
+    display: flex;
+    height: 150px;
+}
+
+.wing{
+    flex: 6;
+}
+
+.img-1{
+    margin-top: 70px;
+    margin-left: 102px;
+}
+
+.img-2{
+    margin-top: 70px;
+    margin-left: 20px;
+}
+
+.p_center{
+    text-align: center;
+    font-size: 22px;
+    color: #FFFFFF;
+    flex: 5;
+}
+.b1{
+    margin-top: 45px;
+}
+.body_one{
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+}
+
+.bg_repeat{
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 150px;
+    display: flex;
+    align-items: center;
+}
+
+#bd_fir_sdiv_tab{
+    background-image: url(../images/why-1.png);
+}
+
+#bd_sec_sdiv_tab{
+    background-image: url(../images/why-2.png);
+}
+
+#bd_thi_sdiv_tab{
+    background-image: url(../images/why-3.png);
+}
+
+#bd_for_sdiv_tab{
+    background-image: url(../images/why-4.png);
+}
+
+.text_b{
+    flex: 1;
+}
+
+.fb_margin{
+    margin: 10px;
+}
+.white{
+    padding-right: 150px;
+    padding-bottom: 15px;
+    color: #FFFFFF;
+    text-align: right;
+}
+
+.green{
+    padding-left: 60px;
+    padding-top: 15px;
+    width: 300px;
+    color: #39a539;
+    text-align: left; 
+}
+
+.block_two{
+    background-image: url(../images/us.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.head_block2{
+    display: flex   ;
+}
+
+.empty{
+    flex: 1;
+}
+
+.lines{
+    flex: 5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.top_line{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.bot_line{
+    font-size: 19px;
+    text-align: center;
+    margin-top: -19px;
+}
+
+
+
+/* .wing2-1{
+    background-image: url(../images/line-left.png);
+    background-repeat: no-repeat;
+    flex: 6;
+    margin-top: 70px;
+    margin-left: 152px;
+}
+
+.wing2-2{
+    background-image: url(../images/line-right.png);
+    background-repeat: no-repeat;
+    flex: 6;
+    margin-top: 70px;
+    margin-left: 20px;
+} */
